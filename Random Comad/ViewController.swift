@@ -9,11 +9,17 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var namePlayerTF: UITextField!
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        
     }
-
+    @IBAction func nextButtonAction(_ sender: UIButton) {
+    }
+    @IBAction func listNameButtonAction(_ sender: UIButton) {
+    }
+    
 
 }
 
