@@ -11,7 +11,7 @@
         <!--Name Players-->
         <scene sceneID="wXy-Am-54z">
             <objects>
-                <viewController id="7jc-ra-PKK" customClass="VCNamePlayers" customModule="Random_Comad" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="VCNamePlayers" id="7jc-ra-PKK" customClass="VCNamePlayers" customModule="Random_Comad" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="xqi-8f-Nlk">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -33,10 +33,10 @@
             </objects>
             <point key="canvasLocation" x="327.536231884058" y="492.85714285714283"/>
         </scene>
-        <!--View Controller-->
+        <!--Enter Comands-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Random_Comad" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="VCEnterComands" id="BYZ-38-t0r" customClass="VCEnterComands" customModule="Random_Comad" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -101,7 +101,7 @@
         <!--View Controller-->
         <scene sceneID="vKY-Gw-KOZ">
             <objects>
-                <viewController modalPresentationStyle="fullScreen" id="saF-EM-qEI" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="ViewController" modalPresentationStyle="fullScreen" id="saF-EM-qEI" customClass="ViewController" customModule="Random_Comad" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Tyh-ue-e4t">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
