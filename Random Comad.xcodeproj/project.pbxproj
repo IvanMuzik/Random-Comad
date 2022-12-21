@@ -13,6 +13,7 @@
 		E49646772953218700616AFC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E49646752953218700616AFC /* Main.storyboard */; };
 		E49646792953218E00616AFC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E49646782953218E00616AFC /* Assets.xcassets */; };
 		E496467C2953218E00616AFC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E496467A2953218E00616AFC /* LaunchScreen.storyboard */; };
+		E49646842953A38A00616AFC /* VCNamePlayers.swift in Sources */ = {isa = PBXBuildFile; fileRef = E49646832953A38900616AFC /* VCNamePlayers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E49646782953218E00616AFC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E496467B2953218E00616AFC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E496467D2953218E00616AFC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E49646832953A38900616AFC /* VCNamePlayers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VCNamePlayers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				E49646712953218700616AFC /* SceneDelegate.swift */,
 				E49646732953218700616AFC /* ViewController.swift */,
 				E49646752953218700616AFC /* Main.storyboard */,
+				E49646832953A38900616AFC /* VCNamePlayers.swift */,
 				E49646782953218E00616AFC /* Assets.xcassets */,
 				E496467A2953218E00616AFC /* LaunchScreen.storyboard */,
 				E496467D2953218E00616AFC /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E49646842953A38A00616AFC /* VCNamePlayers.swift in Sources */,
 				E49646742953218700616AFC /* ViewController.swift in Sources */,
 				E49646702953218700616AFC /* AppDelegate.swift in Sources */,
 				E49646722953218700616AFC /* SceneDelegate.swift in Sources */,
