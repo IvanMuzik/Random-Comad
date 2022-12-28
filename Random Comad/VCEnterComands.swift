@@ -14,6 +14,14 @@ class VCEnterComands: UIViewController {
 
         // Do any additional setup after loading the view.
     }
+    @IBAction func comandOneButton(_ sender: UIButton) {
+    }
     
-
+    @IBAction func comandTwoButton(_ sender: UIButton) {
+    }
+    @IBAction func comandThreeButton(_ sender: UIButton) {
+    }
+    
+    @IBAction func comandFourButton(_ sender: UIButton) {
+    }
 }
